@@ -10,5 +10,5 @@ This application uses the following APIs:
 The application also shows the lat, long on click inside a popup.
 
 ## How to run
-* `npm install`
+* `npm ci`
 * `npm start`
