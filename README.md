@@ -7,7 +7,7 @@ This application uses the following APIs:
 * [Nearmap Tile API](https://docs.nearmap.com/display/ND/Tile+API)
 * Geocoding using the [ol-geocoder package](https://github.com/jonataswalker/ol-geocoder) using the [Nominatim.org geocoder](https://nominatim.org/)
 
-The application also shows the lat, long for each point on click on a popup.
+The application also shows the lat, long on click inside a popup.
 
 ## How to run
 * `npm install`
