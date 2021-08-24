@@ -17,7 +17,7 @@ import * as constants from './config';
   
 /**
  *  Documentation for this Nearmap API:
- *  https://docs.nearmap.com/display/ND/Coverage+API
+ *  https://docs.nearmap.com/display/ND/Coverage+API#CoverageAPI-RetrieveMetadataforaGivenPolygon
  */
 export function coverageUrlTemplate(east, west, north, south) {
     return 'https://api.nearmap.com/coverage/v2/poly/' +
