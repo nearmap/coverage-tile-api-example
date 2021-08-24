@@ -3,7 +3,7 @@ As part of Navig8 2021, we wanted show how to go beyond MapBrowser and utilise t
 
 ## Introduction
 This application uses the following APIs:
-* Nearmap Coverage API - specifically the version [retrieves metadata for a given polygon](https://docs.nearmap.com/display/ND/Coverage+API#CoverageAPI-RetrieveMetadataforaGivenPolygon)
+* Nearmap Coverage API - specifically the version that [retrieves metadata for a given polygon](https://docs.nearmap.com/display/ND/Coverage+API#CoverageAPI-RetrieveMetadataforaGivenPolygon)
 * [Nearmap Tile API](https://docs.nearmap.com/display/ND/Tile+API)
 * Geocoding using the [ol-geocoder package](https://github.com/jonataswalker/ol-geocoder) using the [Nominatim.org geocoder](https://nominatim.org/)
 
